@@ -1,6 +1,0 @@
-cement<2.6.99,>=2.6
-requests
-pystache
-
-[:python_version == "2.7"]
-futures

@@ -1,3 +1,0 @@
-check : https://mrprogrammer2938.github.io/Big-Tool
-check github : https://github.com/mrprogrammer2938
-My new tool - installing link: https://github.com/mrprogrammer2938/portscan
